@@ -4,7 +4,7 @@ This repository contains the **code** for the manuscript being submitted.
 
 ## **Codes**
 
-Our scRNASEQ data were mainly processed by Seurat, R codes used for analyses are in the following files:
+Our scRNASEQ data was mainly processed by Seurat, R codes used for analyses are in the following files:
 
 `01_scRNAseq_flyDrugs_CelltypeCluster.R`
 
