@@ -4,13 +4,13 @@ This repository contains the **code** for our manuscript being submitted.
 
 ## **Codes**
 
-- Our scRNASEQ data was mainly processed by Seurat, R codes used for analyses are in the following files:
+* Our scRNASEQ data was mainly processed by Seurat, R codes used for analyses are in the following files:
 
 `01_scRNAseq_flyDrugs_CelltypeCluster.R`
 
 `02_scRNAseq_flyDrugs_DEGs.R` 
 
-- The validity of our approach is supported by the Drug Set Enrichment Analysis as following:
+* The validity of our approach is supported by the Drug Set Enrichment Analysis as following:
 
 `03_Drug_Set_Enrichment_Analysis.py`
 
