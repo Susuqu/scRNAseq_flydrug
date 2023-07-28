@@ -10,6 +10,10 @@ Our scRNASEQ data was mainly processed by Seurat, R codes used for analyses are 
 
 `02_scRNAseq_flyDrugs_DEGs.R` 
 
+The validity of our approach is supported by the Drug Set Enrichment Analysis as following.
+
+`03_Drug_Set_Enrichment_Analysis.py`
+
 ## Useful Links
 
 💜 EasyFlyTracker homepage: [http://easyFlyTracker.cibr.ac.cn/](http://easyflytracker.cibr.ac.cn/)
