@@ -1,5 +1,5 @@
 '''
-# Citation: Under submission
+# Citation: Under Revision
 # Email: qususu@cibr.ac.cn
 # Date: 2023-05-11
 # Firstly, fastq generation, demultiplexing and alignment were processed by the Basecall software and CellRanger v6.0.1.
